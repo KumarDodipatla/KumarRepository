@@ -4,7 +4,7 @@ public class WebAutomation extends Automation
 {
 public void method2()
 {
-	System.out.println("Method 2 in Child Class Method");
+	System.out.println("Parent Method ");
 }
 public static void main(String[] args) 
 {
